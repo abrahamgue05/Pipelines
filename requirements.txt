@@ -1,0 +1,14 @@
+# Manipulación y análisis de datos
+pandas
+numpy
+
+# Machine Learning y Exportación
+scikit-learn
+joblib
+
+# Visualización de datos
+matplotlib
+seaborn
+
+# Utilidades para Notebooks
+ipykernel

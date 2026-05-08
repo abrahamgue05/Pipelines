@@ -1,0 +1,29 @@
+# --- Entornos Virtuales ---
+.venv/
+env/
+venv/
+ENV/
+
+# --- Datos Pesados (Seguridad y Eficiencia) ---
+data/*.csv
+data/*.xlsx
+data/*.zip
+*.csv
+*.json
+
+# --- Cache de Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Jupyter Notebooks ---
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# --- Archivos del Sistema ---
+.DS_Store
+Thumbs.db
+
+# --- Modelos (Opcional, solo si son muy pesados) ---
+# Si tu .pkl es pequeño, puedes comentarlo para subirlo
+# models/*.pkl
